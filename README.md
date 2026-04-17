@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌱 Slow Down</h1>
-  <p><i>Aplicativo de Apoio ao Cuidado contra o Burnout no Agronegócio</i></p>
+  <p><i>Aplicativo de Apoio ao Cuidado contra o Burnout </i></p>
 
   <img src="https://img.shields.io/badge/Status-Sprint%201-blue?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Engenharia_de_Software_I-ICET--UFAM-green?style=for-the-badge" alt="Disciplina">
