@@ -35,7 +35,7 @@ A documentação técnica do projeto está organizada na pasta `especificacao/`,
 
 | Arquivo | Descrição |
 | :--- | :--- |
-| [`1_plano-de-trabalho.md`](/especificacao/1_plano_de_trabalho.md) | Escopo, tecnologias e divisão de papéis da equipe. |
+| [`1_plano-de-trabalho.md`](/especificacao/1_plano-de-trabalho.md) | Escopo, tecnologias e divisão de papéis da equipe. |
 | [`2_design-thinking.md`](/especificacao/2_design-thinking.md) | Golden Circle, Análise SWOT, Personas e Ideação. |
 | [`3_backlog-do-produto.md`](/especificacao/3_backlog-do-produto.md) | Lista priorizada de Histórias de Usuário (User Stories). |
 | [`4_backlog-do-sprint.md`](/especificacao/4_backlog-do-sprint.md) | Acompanhamento das tarefas individuais e links das Dailys. |
@@ -48,7 +48,7 @@ A documentação técnica do projeto está organizada na pasta `especificacao/`,
   <tr>
     <td align="center"><a href="https://github.com/kaiosdev"><img src="https://github.com/kaiosdev.png" width="100px;" alt=""/><br /><sub><b>Kaio Sobral</b></sub></a><br />Scrum Master</td>
     <td align="center"><a href="https://github.com/FelipeRangelSilvestre"><img src="https://github.com/FelipeRangelSilvestre.png" width="100px;" alt=""/><br /><sub><b>Felipe Rangel</b></sub></a><br />Backlog/User Stories</td>
-    <td align="center"><img src="https://github.com/github.png" width="100px;" alt=""/><br /><sub><b>Marcos</b></sub><br />Design Thinking I</td>
+    <td align="center"><a href="https://github.com/marcox-oliveira"><img src="https://github.com/marcox-oliveira.png" width="100px;" alt=""/><br /><sub><b>Marcos Oliveira</b></sub></a><br />Design Thinking I</td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Evelly-Siqueira"><img src="https://github.com/Evelly-Siqueira.png" width="100px;" alt=""/><br /><sub><b>Evilly Siqueira</b></sub></a><br />Documentação/Markdown</td>
