@@ -6,7 +6,7 @@
 * **O quê?**: O app Slow Down em si, com suporte offline para ambientes com conectividade limitada, desafios e recompensas para engajamento, e sincronização de dados de saúde mesmo sem internet.
 
 ## 2. Análise SWOT
-* **Forças:**
+**Forças:**
 - Suporte offline nativo; funciona em ambientes com conectividade limitada;
 - Gamificação como diferencial de engajamento e adesão contínua;
 - Abordagem preventiva ao burnout, não apenas reativa;
@@ -14,7 +14,7 @@
 - Interface acessível e intuitiva, com baixa curva de aprendizado;
 - Proposta de valor clara e centrada no bem-estar do usuário.
   
-* **Fraquezas:**
+**Fraquezas:**
 - Dependência de autorrelato do usuário pode gerar dados imprecisos;
 - Desafio de manter o engajamento a longo prazo além da fase inicial;
 - Recursos de IA e análise limitados sem conexão à internet;
@@ -22,7 +22,7 @@
 - Necessidade de validação clínica para ganhar credibilidade médica;
 - Custo de desenvolvimento e manutenção para suporte multiplataforma.
 
-* **Oportunidades:**
+**Oportunidades:**
 - Crescimento global da consciência sobre saúde mental no trabalho;
 - Empresas investindo em programas de bem-estar corporativo;
 - Integração com wearables (smartwatches, anéis de saúde);
@@ -30,7 +30,7 @@
 - Parcerias com RH, planos de saúde e seguradoras;
 - Regulamentações favoráveis à saúde mental no ambiente de trabalho.
 
-* **Ameaças:**
+**Ameaças:**
 - Concorrência de apps consolidados como Headspace, Calm e Noom;
 - Baixa percepção de valor entre usuários céticos à autoverificação;
 - Estigma cultural em torno de saúde mental pode reduzir adoção;
