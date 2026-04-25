@@ -107,6 +107,16 @@ A **Análise SWOT** (ou FOFA) é utilizada para avaliar a situação do aplicati
 
 **Descrição:** O Buddhify é um app de saúde mental que oferece técnicas de mindfulness, permitindo ao usuário integrar a meditação durante as tarefas do seu dia a dia. A ideia é possibilitar a meditação em trânsito, sem que você tenha que disponibilizar um tempo específico para isso.
 
+## 2.2 Quadro Comparativo de Soluções Existentes
+
+| Critério | Calm | Sanvello | Headspace | Happify | Cíngulo | Buddhify | ⭐ Slow Down (nossa solução) |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| **Modelo de negócio** | Freemium — Assinatura premium | Freemium — Assinatura + telessaúde | Pago — Assinatura | Freemium — Assinatura premium | Freemium — Assinatura premium | Pago — Compra única | Freemium — Assinatura com foco B2B (agronegócio) |
+| **Tecnologia utilizada** | Mobile (iOS/Android), Web | Mobile (iOS/Android), Web | Mobile (iOS/Android), Web | Mobile (iOS/Android), Web | Mobile (iOS/Android), IA generativa | Mobile (iOS/Android) | Mobile (iOS/Android), IA + Smartwatch, **Modo offline**, Voz (mãos-livres) |
+| **Público-alvo** | Adultos em geral, foco em estresse e sono | Adultos com ansiedade e depressão leve | Adultos buscando foco e meditação | Adultos buscando bem-estar e positividade | Adultos com questões emocionais gerais | Adultos praticantes de mindfulness | Trabalhadores do agronegócio com risco de burnout |
+| **Pontos fortes** | Conteúdo vasto; marca consolidada; sono e respiração | Comunidade monitorada; telessaúde integrada; TCC | Meditação personalizada por objetivo; design intuitivo | Gamificação leve; psicologia positiva; tarefas diárias | IA personalizada; diário emocional; premiado | Meditação no cotidiano; sem agenda fixa | Gamificação profunda (mascote/XP); offline total; integração smartwatch; voz; foco em burnout rural |
+| **Pontos fracos / limitações** | ❌ Sem offline — genérico; sem foco em burnout ocupacional | ❌ Caro — telessaúde limitada a alguns países | ❌ Sem versão grátis — sem comunidade; sem suporte profissional | Pouca profundidade terapêutica; gamificação superficial | Depende de conexão; sem integração de wearables | ❌ Sem versão grátis — sem comunidade; sem monitoramento de saúde | ⚠️ Em desenvolvimento — marca nova; base de usuários ainda a construir |
+
 ## 3. CONHECENDO O USUÁRIO - PERSONAS
 
 Para guiar o desenvolvimento focado no usuário, definimos 3 personas baseadas na técnica PATHY, representando diferentes contextos profissionais afetados pelo burnout:
