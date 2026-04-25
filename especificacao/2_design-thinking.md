@@ -3,7 +3,7 @@
       <td align="center" style="background-color: #f8f9fa;">
         <h1 style="color: #1a73e8; margin-bottom: 5px;">💡 DESIGN THINKING: SLOW DOWN</h1>
         <p><i>Fase I e II - Engenharia de Software I</i></p>
-        <img src="https://img.shields.io/badge/Versão-1.1-blue?style=for-the-badge" alt="Versão">
+        <img src="https://img.shields.io/badge/Versão-1.2-blue?style=for-the-badge" alt="Versão">
         <img src="https://img.shields.io/badge/Status-Sprint%201-green?style=for-the-badge" alt="Status">
       </td>
     </tr>
@@ -26,19 +26,20 @@
 |:---|:---|:---|:---|
 | 1.0 | Elaboração inicial das fases de Inspiração e SWOT. | Marcos Oliveira | 10/04/2026 |
 | 1.1 | Inclusão de descrições detalhadas e alinhamento visual. | Marcos Oliveira | 25/04/2026 |
+| 1.2 | Reposicionamento do Golden Circle e SWOT para escopo universal de burnout ocupacional; personas ampliadas para além do agronegócio. | Marcos Oliveira | 25/04/2026 |
 
 
 ## 1. INSPIRAÇÃO - GOLDEN CIRCLE
 
 O **Golden Circle** é um modelo de pensamento estratégico criado por Simon Sinek que ajuda a definir o propósito e a proposta de valor de um produto de dentro para fora. Em vez de focar apenas no que o app faz, propõe-se uma lógica persuasiva baseada no propósito.
 
-* **Por quê? (Why - Propósito)**: Reduzir o burnout em indivíduos e equipes, atacando a causa raiz do esgotamento emocional antes que ele se torne incapacitante.
-* **Como? (How - Diferencial)**: Através de uma interface acessível e gamificada que torna o autocuidado natural. Inclui monitoramento contínuo de saúde, relatórios de bem-estar e alertas preventivos.
-* **O quê? (What - Resultado)**: O aplicativo **Slow Down** funcional, com suporte nativo offline para ambientes com conectividade limitada, desafios e recompensas integradas.
+* **Por quê? (Why - Propósito)**: Milhões de trabalhadores brasileiros convivem com o burnout de forma silenciosa, independentemente do setor em que atuam. Nossa missão é atacar a causa raiz do esgotamento emocional antes que ele se torne incapacitante, ajudando qualquer pessoa a identificar e prevenir o burnout no dia a dia.
+* **Como? (How - Diferencial)**: Através de uma interface acessível e gamificada que torna o autocuidado natural. Inclui monitoramento contínuo de saúde, relatórios de bem-estar e alertas preventivos, com suporte offline nativo que garante acesso ao app mesmo em ambientes com conectividade limitada — como áreas rurais, canteiros de obra ou locais sem infraestrutura de internet.
+* **O quê? (What - Resultado)**: O aplicativo **Slow Down** funcional, com suporte nativo offline para ambientes com conectividade limitada, desafios e recompensas integradas, voltado a trabalhadores de qualquer setor profissional.
 
 <div align="center">
   <img width="600" alt="Diagrama do Golden Circle para o Slow Down" src="https://github.com/user-attachments/assets/6ab5ecb2-469b-4dbe-a441-d3c5f1a26f6b" />
-  <p><i><b>Descrição da Imagem:</b> Representação visual do Golden Circle composta por três círculos concêntricos. O núcleo central define o propósito de combate ao burnout (Why), o círculo intermediário detalha a estratégia de gamificação e prevenção (How) e o círculo externo apresenta o produto final e suas funcionalidades offline (What).</i></p>
+  <p><i><b>Descrição da Imagem:</b> Representação visual do Golden Circle composta por três círculos concêntricos. O núcleo central define o propósito de combate ao burnout ocupacional universal (Why), o círculo intermediário detalha a estratégia de gamificação, prevenção e suporte offline (How) e o círculo externo apresenta o produto final e suas funcionalidades (What).</i></p>
 </div>
 
 
@@ -48,10 +49,11 @@ A **Análise SWOT** (ou FOFA) é utilizada para avaliar a situação do aplicati
 
 ### **Fatores Internos**
 * **Forças (Strengths):**
-    - Suporte offline nativo para áreas remotas (agronegócio).
+    - Suporte offline nativo para ambientes com conectividade limitada (áreas rurais, canteiros de obra, hospitais, etc.).
     - Gamificação como motor de engajamento e adesão contínua.
     - Abordagem preventiva, focada na antecipação do esgotamento.
     - Interface intuitiva com baixíssima curva de aprendizado.
+    - Aplicável a trabalhadores de qualquer setor profissional, sem restrição de público-alvo.
 * **Fraquezas (Weaknesses):**
     - Dependência de autorrelato (sujeito a imprecisões do usuário).
     - Necessidade de validação clínica para credibilidade médica.
@@ -59,9 +61,10 @@ A **Análise SWOT** (ou FOFA) é utilizada para avaliar a situação do aplicati
 
 ### **Fatores Externos**
 * **Oportunidades (Opportunities):**
-    - Crescimento da consciência corporativa sobre saúde mental.
+    - Crescimento da consciência corporativa sobre saúde mental em todos os setores (saúde, educação, tecnologia, indústria, agronegócio).
+    - OMS reconheceu o burnout como fenômeno ocupacional em 2019, aumentando a legitimidade e urgência do tema.
     - Possibilidade de integração com wearables (smartwatches).
-    - Parcerias estratégicas com RHs e planos de saúde.
+    - Parcerias estratégicas com RHs, planos de saúde e programas de bem-estar corporativo.
 * **Ameaças (Threats):**
     - Concorrência de apps consolidados (Headspace, Calm).
     - Estigma cultural que pode reduzir a adoção inicial.
@@ -79,7 +82,7 @@ __Descrição:__  Para quem busca viver uma vida mais produtiva e aliviar o estr
 
 # Sanvello
 <img width="1301" height="682" alt="image" src="https://github.com/user-attachments/assets/868ce855-d646-4704-9ebc-4a6f7e532f07" />
-# _Descrição: Sanvello é um aplicativo que busca fornecer suporte terapêutico por meio de programas de atenção plena, rastreamento de humor e guia de meditação. A ferramenta também conta uma versão gratuita e paga, além de oferecer práticas autodirigidas e serviços de telessaúde. Outra vantagem, é que o usuário tem acesso ao recurso “Comunidade”, com fórum de discussões monitorados por profissionais da saúde mental._
+# _Descrição: Sanvello é um aplicativo que busca fornecer suporte terapêutico por meio de programas de atenção plena, rastreamento de humor e guia de meditação. A ferramenta também conta uma versão gratuita e paga, além de oferecer práticas autodirigidas e serviços de telessaúde. Outra vantagem, é que o usuário tem acesso ao recurso "Comunidade", com fórum de discussões monitorados por profissionais da saúde mental._
 
 # Headspace
 <img width="1298" height="628" alt="image" src="https://github.com/user-attachments/assets/09e41558-9dba-44fd-be46-18064d0f1cfe" />
@@ -99,11 +102,11 @@ __Descrição:__ O Buddhify é um app de saúde mental que oferece técnicas de 
 
 ## 3. CONHECENDO O USUÁRIO - PERSONAS
 
-Para guiar o desenvolvimento focado no usuário, definimos 3 personas baseadas na técnica PATHY:
+Para guiar o desenvolvimento focado no usuário, definimos 3 personas baseadas na técnica PATHY, representando diferentes contextos profissionais afetados pelo burnout:
 
-1.  **Geilson:** Trabalhador do campo que busca monitorar o estresse físico.
-2.  **Arleson:** Gestor que precisa de ferramentas de engajamento para sua equipe.
-3.  **Ana:** Profissional que utiliza o app para equilibrar rotina pesada com pausas de meditação.
+1.  **Geilson:** Trabalhador em ambiente de trabalho físico intenso (campo, construção, logística) que busca monitorar o estresse físico e emocional mesmo sem acesso estável à internet.
+2.  **Arleson:** Gestor de equipe em qualquer setor que precisa de ferramentas de engajamento para si e para sua equipe.
+3.  **Ana:** Profissional de alta performance (saúde, educação, tecnologia) que utiliza o app para equilibrar uma rotina pesada com pausas de meditação e autocuidado.
 
 
 ## 4. IDEAÇÃO E BRAINSTORMING
