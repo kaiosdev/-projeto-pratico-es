@@ -2,7 +2,7 @@
     <tr>
       <td align="center" style="background-color: #f8f9fa;">
         <h1 style="color: #1a73e8; margin-bottom: 5px;">🏃 BACKLOG DO SPRINT: SLOW DOWN</h1>
-        <p><i>Sprint 1 - Engenharia de Software I</i></p>
+        <p><i>Sprint 1 - Engenharia de Software A</i></p>
         <img src="https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge" alt="Versão">
         <img src="https://img.shields.io/badge/Status-Em_Andamento-yellow?style=for-the-badge" alt="Status">
       </td>
