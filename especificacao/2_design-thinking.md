@@ -79,7 +79,7 @@ __Descrição:__ Para quem busca viver uma vida mais produtiva e aliviar o estre
 
 # Sanvello
 <img width="1301" height="682" alt="image" src="https://github.com/user-attachments/assets/868ce855-d646-4704-9ebc-4a6f7e532f07" />
-__Descrição:__ Sanvello é um aplicativo que busca fornecer suporte terapêutico por meio de programas de atenção plena, rastreamento de humor e guia de meditação. A ferramenta também conta uma versão gratuita e paga, além de oferecer práticas autodirigidas e serviços de telessaúde. Outra vantagem, é que o usuário tem acesso ao recurso “Comunidade”, com fórum de discussões monitorados por profissionais da saúde mental.
+# _Descrição: Sanvello é um aplicativo que busca fornecer suporte terapêutico por meio de programas de atenção plena, rastreamento de humor e guia de meditação. A ferramenta também conta uma versão gratuita e paga, além de oferecer práticas autodirigidas e serviços de telessaúde. Outra vantagem, é que o usuário tem acesso ao recurso “Comunidade”, com fórum de discussões monitorados por profissionais da saúde mental._
 
 # Headspace
 <img width="1298" height="628" alt="image" src="https://github.com/user-attachments/assets/09e41558-9dba-44fd-be46-18064d0f1cfe" />
