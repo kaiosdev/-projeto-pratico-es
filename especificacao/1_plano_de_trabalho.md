@@ -1,15 +1,11 @@
 <div align="center">
-    <tr>
-      <td align="center" style="background-color: #f8f9fa;">
-        <h1 style="color: #2e7d32; margin-bottom: 5px;">🌱 PLANO DE TRABALHO: SLOW DOWN</h1>
-        <p><i>Engenharia de Software I - ICET/UFAM</i></p>
-        <img src="https://img.shields.io/badge/Versão-1.2-blue?style=for-the-badge" alt="Versão">
-        <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge" alt="Status">
-      </td>
-    </tr>
-  </table>
+  <h1 style="color: #2e7d32;">🌱 PLANO DE TRABALHO: SLOW DOWN</h1>
+  <p><i>Engenharia de Software A - ICET/UFAM</i></p>
 
-  <br>
+
+  <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge" alt="Status">
+
+  <br><br>
 
   | Campo | Informação |
   |:---|:---|
@@ -21,15 +17,6 @@
 
 ---
 
-## 🕒 HISTÓRICO DE VERSÕES
-
-| Versão | Descrição | Autor | Data |
-|:---|:---|:---|:---|
-| 1.0 | Elaboração inicial do Plano de Trabalho. | Evelly Rebecca | 20/03/2026 |
-| 1.1 | Revisão geral do documento. | Evelly Rebecca | 10/04/2026 |
-| 1.2 | Ampliação para burnout ocupacional universal; Versão Final Concluída. | Evelly Rebecca | 25/04/2026 |
-
----
 
 ## 1. INTRODUÇÃO
 
@@ -41,7 +28,7 @@ Evoluir um aplicativo focado na prevenção do burnout ocupacional em trabalhado
 ### 1.2 Motivação e Justificativa
 A alta incidência de esgotamento emocional em diferentes setores da economia brasileira justifica o desenvolvimento de uma solução acessível e adaptável a diferentes perfis de trabalhadores, que utilize dispositivos móveis para promover o bem-estar de forma contínua. A ausência de ferramentas preventivas — focadas em antecipar o burnout antes do colapso, e não apenas em tratá-lo — representa uma lacuna concreta que o SlowDown se propõe a preencher.
 
----
+
 
 ## 2. INFORMAÇÕES GERAIS
 
@@ -63,7 +50,6 @@ O escopo abrange o desenvolvimento e manutenção evolutiva de um aplicativo mob
 * **Metodologia:** Scrum com ciclos iterativos (sprints).
 * **Gestão:** GitHub Projects, Notion e Figma.
 
----
 
 ## 3. METODOLOGIA E EQUIPE
 
@@ -83,7 +69,6 @@ A distribuição foi estruturada para refletir as funções executadas em cada e
 ### 3.2 Gestão de Comunicação
 As **Dailys** são registadas no Notion de 3 a 4 vezes por semana por cada integrante, permitindo ao Scrum Master e à Gestora de Sprint monitorar impedimentos e o progresso das tarefas.
 
----
 
 ## 4. PLANEAMENTO FINANCEIRO ESTIMADO
 
@@ -97,3 +82,9 @@ As **Dailys** são registadas no Notion de 3 a 4 vezes por semana por cada integ
 | **Terceiros** | Identidade Visual e Testes de Usabilidade. | R$ 6.000,00 |
 | **Contingência** | Margem de Segurança (10%). | R$ 8.304,00 |
 | **TOTAL** | | **R$ 92.151,78** |
+
+---
+
+<div align="center">
+  <p>Trabalho requisitado pelo <b>Prof. Dr. Andrey Rodrigues</b> para a disciplina de <b>Engenharia de Software A</b> - ICET/UFAM.</p>
+</div>
