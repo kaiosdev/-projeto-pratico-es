@@ -1,31 +1,22 @@
 <div align="center">
-    <tr>
-      <td align="center" style="background-color: #f8f9fa;">
-        <h1 style="color: #1a73e8; margin-bottom: 5px;">🏃 BACKLOG DO SPRINT: SLOW DOWN</h1>
-        <p><i>Sprint 1 - Engenharia de Software A</i></p>
-        <img src="https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge" alt="Versão">
-        <img src="https://img.shields.io/badge/Status-Em_Andamento-yellow?style=for-the-badge" alt="Status">
-      </td>
-    </tr>
-  </table>
+  <h1 style="color: #1a73e8;">🏃 BACKLOG DO SPRINT: SLOW DOWN</h1>
+  <p><i>Sprint 1 - Engenharia de Software A</i></p>
 
-  <br>
+  <img src="https://img.shields.io/badge/Versão-1.0-blue?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/Status-Concluído-blue?style=for-the-badge" alt="Status">
 
- | Campo             | Informação |
-|:------------------|:-----------|
-| **Responsável**   | Nádia |
-| **Projeto**       | SlowDown |
-| **Quadro Kanban** | [Acessar GitHub Projects](https://github.com/users/kaiosdev/projects/6) |
-| **Sprint**        | Sprint 1 — 28/03/2026 a 25/04/2026 |
----
+  <br><br>
 
-## 🕒 HISTÓRICO DE VERSÕES
-
-| Versão | Descrição | Autor | Data |
-|:---|:---|:---|:---|
-| 1.0 | Criação do Backlog do Sprint com base nas Dailys registradas no Notion. | Nádia | 25/04/2026 |
+  | Campo | Informação |
+  |:---|:---|
+  | **Responsável** | Nádia Maria Leão |
+  | **Projeto** | SlowDown |
+  | **Quadro Kanban** | [Acessar GitHub Projects](https://github.com/users/kaiosdev/projects/6) |
+  | **Sprint** | Sprint 1 — 28/03/2026 a 25/04/2026 |
+</div>
 
 ---
+
 
 ## 1. SOBRE O BACKLOG DO SPRINT
 
@@ -65,7 +56,7 @@ O **Backlog do Sprint** acompanha as atividades individuais executadas por cada 
 | 28/03 | — | Estudo das funcionalidades de IHC para definir o escopo inicial. | Nenhum. |
 | 01/04 | Definição de escopo. | Criação do rascunho do Backlog do Produto em arquivo `.md`. | Nenhum. |
 | 04/04 | Rascunho concluído. | Listagem das primeiras 10 histórias de usuário (US). | Dúvida na priorização. |
-| 07/04 | Listou 10 US. | Refinamento das histórias e associação com as personas. | Atrasos na definição das personas pelo Marcos. |
+| 07/04 | Listou 10 US. | Refinamento das histórias e associação com as personas. | Atrasos na definição das personas pelo Marcelo. |
 | 11/04 | Refinou histórias. | Ajuste de prioridades e critérios de aceitação no GitHub Projects. | Gargalo no tempo para detalhar as 14 US exigidas. |
 | 15/04 | Organizou o Projects. | Finalização das 16 histórias de usuário no repositório. | Nenhum. |
 | 18/04 | Finalizou as US. | Atribuição de Assignees e Labels nas issues do GitHub. | Nenhum. |
@@ -159,17 +150,24 @@ O **Backlog do Sprint** acompanha as atividades individuais executadas por cada 
 | 28/03 | Nádia | Sem permissão para criar board no GitHub. | Kaio liberou permissões em 30/03. |
 | 28/03 | Kaio | Nádia relatou falta de permissão no GitHub. | Permissões liberadas na sequência. |
 | 04/04 | Marcelo | Dificuldade em definir critérios objetivos para o quadro comparativo. | Refinamento seguiu com critérios internos da equipe. |
+| 05/04 | Nádia | Depende de outros terminarem suas partes. | Acompanhado até fechamento do Sprint. |
+| 06/04 | Evelly | Atrasos na entrega do Backlog pelo Felipe. | Levantamento de requisitos seguiu com dados parciais. |
 | 07/04 | Kaio | Gargalos no cronograma pela complexidade da análise inicial. | Reunião de alinhamento realizada em 08/04. |
-| 07/04 | Felipe | Atrasos na definição das personas pelo Marcos. | Refinamento seguiu com dados parciais. |
+| 07/04 | Felipe | Atrasos na definição das personas pelo Marcelo. | Refinamento seguiu com dados parciais. |
 | 08/04 | Kaio | Tempo limitado da equipe para entregas simultâneas. | Reajuste de ritmo e prioridades. |
 | 09/04 | Nádia | Gargalo no fluxo de atualização das tarefas. | Sincronização realizada em 13/04. |
 | 10/04 | Kaio | Atrasos acumulados nas fases de Inspiração. | Verificação técnica das US realizada. |
 | 11/04 | Felipe | Gargalo no tempo para detalhar as 14 US exigidas. | Ajuste de prioridades no Projects. |
 | 11/04 | Kaio | Ritmo da equipe precisou ser reajustado. | Suporte à Nádia e rebalanceamento. |
 | 11/04 | Marcelo | Instabilidade na plataforma HubSpot durante modelagem das Personas. | Exportação realizada após estabilização da plataforma. |
-| 21/04 | Kaio | Alguns membros irregulares nas Dailys. | Cobrança de registros realizada. |
 | 20/04 | Kaio | Nádia relatou dificuldade com comandos Git. | Pareamento realizado entre Kaio e Nádia. |
 | 20/04 | Nádia | Dificuldade em usar o GitHub corretamente. | Pareamento com Kaio resolveu o problema. |
-| 25/04 | Nádia | Depende de outros terminarem suas partes. | Acompanhado até fechamento do Sprint. |
-| 06/04 | Evelly | Atrasos na entrega do Backlog pelo Felipe. | Levantamento de requisitos seguiu com dados parciais. |
+| 21/04 | Kaio | Alguns membros irregulares nas Dailys. | Cobrança de registros realizada. |
 
+---
+
+<div align="center">
+
+  <sub>Desenvolvido para a disciplina de Engenharia de Software A - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
+
+</div>
