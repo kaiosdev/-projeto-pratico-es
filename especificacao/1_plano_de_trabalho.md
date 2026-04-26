@@ -87,6 +87,6 @@ As **Dailys** são registadas no Notion de 3 a 4 vezes por semana por cada integ
 
 <div align="center">
 
-  <sub>Desenvolvido para a disciplina de Engenharia de Software I - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
+  <sub>Desenvolvido para a disciplina de Engenharia de Software A - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
 
 </div>
