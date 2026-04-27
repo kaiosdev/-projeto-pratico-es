@@ -163,6 +163,12 @@ Abaixo estão consolidados todos os **21 impedimentos** reportados pela equipe d
 
 ---
 
+## 4. LINKS DE ACOMPANHAMENTO
+
+Para visualizar o histórico detalhado,  evolução diária das tarefas, acesse nossa central de gestão no Notion:
+
+👉 **[Acessar Tabela de Daily Scrum (Notion)](https://olive-ankle-b99.notion.site/337b9fbbb879809eaba8e4c396261dd8?v=337b9fbbb879808aaa2d000c3a648f09&source=copy_link)**
+
 <div align="center">
 
   <sub>Desenvolvido para a disciplina de Engenharia de Software A - ICET/UFAM. <br /> Professor: Dr. Andrey Rodrigues</sub>
