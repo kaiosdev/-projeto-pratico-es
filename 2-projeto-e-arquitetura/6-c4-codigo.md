@@ -37,7 +37,7 @@ O objetivo deste artefato é demonstrar como os requisitos funcionais definidos 
 O diagrama apresenta a modelagem estrutural das principais funcionalidades do sistema, organizadas em módulos de domínio responsáveis por autenticação, monitoramento emocional, análise de estresse, gamificação, conteúdo de meditação, notificações e assistência conversacional. A arquitetura evidencia a centralidade da entidade `Usuario`.
 
 <div align="center">
-   <img width="100%" alt="Diagrama sem nome-Diagrama de código  (2)" src="https://github.com/user-attachments/assets/fba3679d-b2be-4397-9943-edd86d9c0293" />
+   <img width="3802" height="3478" alt="Diagrama sem nome-Cópia do Cópia do Diagrama de código  drawio" src="https://github.com/user-attachments/assets/235a5d48-f00f-421a-9a3d-51dbf827ff8c" />
   <p><i><b>Figura 1:</b> Diagrama de Classes UML completo do domínio do SlowDown.</i></p>
 </div>
 
